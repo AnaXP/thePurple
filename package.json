@@ -1,0 +1,27 @@
+{
+  "name": "ThePurple",
+  "displayName": "ThePurple",
+  "description": "My Purple theme, the onest",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "ThePurple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ThePurple-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnaXP/thePurple.git"
+  },
+  "homepage": "https://github.com/AnaXP/thePurple/blob/gh-pages/README.md"
+}
