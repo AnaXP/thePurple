@@ -3,6 +3,7 @@
   "displayName": "ThePurple",
   "description": "My Purple theme, the onest",
   "version": "0.0.1",
+  "publisher": "nacl117",
   "engines": {
     "vscode": "^1.76.0"
   },
